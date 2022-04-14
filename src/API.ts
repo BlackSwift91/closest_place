@@ -1,6 +1,6 @@
 export const GOOGLE_PLACE_API = 'https://maps.googleapis.com/maps/api/place';
 export const AUTOCOMPLETE = '/autocomplete/json?';
-export const TOKEN = 'AIzaSyD34Wf0BZk4mdvVO0bJB2b1aHQvTrv2o5k';
+export const TOKEN = 'API_KEY';
 
 export interface IPlace {
   index: number;
