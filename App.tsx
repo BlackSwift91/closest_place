@@ -35,7 +35,7 @@ import { PlaceModal } from './src/components/PlaceModal/PlaceModal';
 
 import { gpsSettings } from './src/gps';
 
-import { IPredictionType } from './src/predicate';
+import { IPredictionType } from './src/Interface/IPrediction';
 
 LogBox.ignoreLogs(["exported from 'deprecated-react-native-prop-types'."]);
 
